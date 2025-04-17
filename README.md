@@ -2,7 +2,7 @@
 # How Can I Use AI to Help My Academic Research?
 Research Skills Workshop | ARC Training Centre for Behavioural Insights for Technology Adoption
 
-Facilitator: Dr. Steve BickleyDate: 17 April 2025Location: UWA (University of Western Australia)
+Facilitator: Dr. Steve Bickley  |  Date: 28 April 2025 | Location: UWA (University of Western Australia)
 
 ## Overview
 
