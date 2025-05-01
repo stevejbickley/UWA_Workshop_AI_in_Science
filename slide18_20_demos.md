@@ -2,6 +2,8 @@
 
 These demos correspond to Slides 18–20 of the workshop and showcase how to use generative AI tools (e.g., ChatGPT, Claude, Elicit) to assist with research writing, reviewing literature, and pre-testing survey design.
 
+---
+
 ## Writing & Argument Development (Slide 18)
 
 ### Live Demo Options:
@@ -19,6 +21,8 @@ Writing logic checker:
 "Does the conclusion in this paragraph logically follow from the results presented above?"
 
 Tool Suggestions: Claude, ChatGPT
+
+---
 
 ## Literature Review via Elicit (Slide 19)
 
@@ -40,9 +44,9 @@ Refine results → Export summaries or use structured overview
 
 "For each of the following papers: [paste], extract aim, method, findings, and limitations."
 
-## Experiment or Survey Design (Slide 20)
+---
 
-Prompt Templates:
+## Experiment or Survey Design (Slide 20)
 
 ### Basic Hypothesis Drafting
 

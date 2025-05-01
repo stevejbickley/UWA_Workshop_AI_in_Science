@@ -1,6 +1,9 @@
 # Demo Prompt Cards for Academic Research
 
-These structured prompts are designed to support academic tasks using LLMs (e.g., ChatGPT, Claude). They can be used as-is or adapted during workshops or self-paced learning.
+These structured prompts are designed to support academic tasks using LLMs. 
+They can be used as-is or adapted using tools like Claude, ChatGPT, or Elicit during the workshop, follow-up experimentation, or self-paced learning.
+
+---
 
 ## Literature Review & Gap Identification
 
@@ -16,6 +19,8 @@ Prompt 3 – Concept Map (Advanced):
 
 Generate a conceptual map of how the key ideas and methods relate across these papers. Highlight overlaps and differences.
 
+---
+
 ## Survey/Experiment Design
 
 Prompt 4 – Hypothesis Testing Plan:
@@ -25,6 +30,8 @@ I want to test the hypothesis: [insert H]. What experiment or survey design woul
 Prompt 5 – Question Refinement:
 
 Here are my survey questions. Suggest 3 variations for each to test sensitivity and framing effects. Highlight any bias or ambiguity.
+
+---
 
 ## Academic Writing & Feedback
 
@@ -40,6 +47,8 @@ Prompt 8 – Reviewer Simulation:
 
 Read my abstract/introduction. What 2–3 concerns might a reviewer raise, and how could I address them?
 
+---
+
 ## Statistical Suggestions or Coding Help
 
 Prompt 9 – Statistical Test Selector:
@@ -49,5 +58,3 @@ I have a dependent variable that is [type] and a sample of [size/type]. What sta
 Prompt 10 – Code Fixer:
 
 Here is my error message and the code: [insert]. What’s causing the issue, and how can I fix or rewrite it?
-
-Each of these can be used live in tools like Claude, ChatGPT, or Elicit during the workshop or for follow-up experimentation.
