@@ -2,6 +2,7 @@
 # How Can I Use AI to Help My Academic Research?
 **Research Skills Workshop** | **ARC Training Centre for Behavioural Insights for Technology Adoption**
 
+
 * **Facilitator:** Dr. Steve Bickley
 * **Date:** 29 April 2025
 * **Time:** 4-6 pm AEST
