@@ -1,6 +1,7 @@
 # AI Assistance Disclosure Templates for Academic Manuscripts
 
-Below are mix‑and‑match blocks you can tailor to meet your journal’s wording limits.  
+Below are mix‑and‑match blocks you can tailor to meet your journal’s wording limits: explicitly stating **which tool, when, how**, and the authors’ verification steps.
+
 Replace bracketed text `[…]` with specifics and remove any lines that do not apply.
 
 
@@ -51,5 +52,3 @@ Replace bracketed text `[…]` with specifics and remove any lines that do not a
 
 > All AI‑assisted text was screened with Turnitin iThenticate (v2.1, 22 Apr 2025); no uncited overlap was detected.
 
-
-*These templates address common publisher requirements (COPE, Elsevier, Springer Nature) by explicitly stating **which tool, when, how**, and the authors’ verification steps.*
