@@ -8,7 +8,6 @@
 * **Time:** 4-6 pm AEST
 * **Location:** UWA (University of Western Australia), Crawley Campus
 
----
 
 ## Overview
 
@@ -26,7 +25,6 @@ This workshop explores the practical and critical use of AI tools throughout the
 
 The session includes both conceptual explanation and practical demonstration, with links to tools like ChatGPT, Claude, Elicit, and GitHub Copilot.
 
----
 
 ## Contents
 
@@ -44,7 +42,6 @@ The session includes both conceptual explanation and practical demonstration, wi
 
 [Crimes_-_One_year_prior_to_present.csv](./Crimes_-_One_year_prior_to_present.csv): 1-year sample of Chicago Police Department incident reports ([public open-data portal](./https://catalog.data.gov/dataset/crimes-one-year-prior-to-present)). Used on slide 24 to demo quick exploratory analysis with GPT-assisted Python (time constraints meant the live demo was skipped).
 
----
 
 ## Notes for Participants
 
@@ -66,12 +63,10 @@ Any reuse or adaptation must provide appropriate credit and indicate any changes
 
 > Bickley, S. (2025, April 29). *How Can I Use AI to Help My Academic Research?* Research Skills Workshop, ARC Training Centre for Behavioural Insights for Technology Adoption. Delivered online and in-person at the Crawley Campus of University of Western Australia, Perth, Australia. GitHub Repository: <https://github.com/stevejbickley/UWA_Workshop_AI_in_Science>. CC BY 4.0.
 
----
 
 ## AI Assistance Disclosure
 Portions of the slides, demo prompts, and handouts were drafted and/or re-phrased with assistance from GPT-4o (ChatGPT Plus) during Apr-May 2025; all AI-generated text and code were reviewed, fact-checked, and edited by the facilitator.
 
----
 
 ## Acknowledgement of Country
 
