@@ -7,6 +7,7 @@
 * **Date:** 29 April 2025
 * **Time:** 4-6 pm AEST
 * **Location:** UWA (University of Western Australia), Crawley Campus
+* **Attendance:** 120+ attendees in total (*85+ online and 35+ in-person*)
 
 
 ## Overview
