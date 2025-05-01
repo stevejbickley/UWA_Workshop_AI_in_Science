@@ -2,9 +2,17 @@
 
 This demo walks participants through using AI (e.g., ChatGPT-4 or Claude) to assist in code generation, exploratory data analysis (EDA), and interpretation using a real dataset.
 
+---
+
 ## Dataset Used
 
-File: Crimes_-_One_year_prior_to_present.csvContent: Crime data with variables like location, date, offence type, and countUse Case: Exploratory analysis + basic modelling (e.g., trendline, regression)
+1-year sample of Chicago Police Department incident reports ([public open-data portal](./https://catalog.data.gov/dataset/crimes-one-year-prior-to-present)). 
+
+**Overview:** Crime data with variables like location, date, offence type, and count
+
+**Use Case:** Exploratory analysis + basic modelling (e.g., trendline, regression)
+
+---
 
 ## Demo Flow (Live in ChatGPT or Claude with code interpreter enabled)
 
@@ -23,6 +31,8 @@ File: Crimes_-_One_year_prior_to_present.csvContent: Crime data with variables l
 ### Step 4 – Explain Statistical Results
 
 "Explain the meaning of R², coefficients, and p-values from this model in plain English."
+
+---
 
 ## Bonus Prompts
 
