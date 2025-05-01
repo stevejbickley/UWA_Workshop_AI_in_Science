@@ -2,7 +2,6 @@
 
 This demo walks participants through using AI (e.g., ChatGPT-4 or Claude) to assist in code generation, exploratory data analysis (EDA), and interpretation using a real dataset.
 
----
 
 ## Dataset Used
 
@@ -12,7 +11,6 @@ This demo walks participants through using AI (e.g., ChatGPT-4 or Claude) to ass
 
 **Use Case:** Exploratory analysis + basic modelling (e.g., trendline, regression)
 
----
 
 ## Demo Flow (Live in ChatGPT or Claude with code interpreter enabled)
 
@@ -32,7 +30,6 @@ This demo walks participants through using AI (e.g., ChatGPT-4 or Claude) to ass
 
 "Explain the meaning of R², coefficients, and p-values from this model in plain English."
 
----
 
 ## Bonus Prompts
 
