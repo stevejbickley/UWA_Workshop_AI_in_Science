@@ -50,3 +50,5 @@ Used as an *iterative collaborator*, LLMs can:
 Follow the **ARC BITA Centre** LinkedIn page for the workshop recording once uploaded.  
 * LinkedIn: <https://www.linkedin.com/company/arc-ittc-bita/>
 * YouTube: <https://www.youtube.com/@ARCBITA>
+
+The workshop recording is also available via the YouTube channel for UWA's School of Agriculture and Environment: <https://www.youtube.com/user/AREatUWA/>.
