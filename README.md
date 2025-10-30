@@ -29,19 +29,21 @@ The session includes both conceptual explanation and practical demonstration, wi
 
 ## Contents
 
-[demo_prompts.md](./demo_prompts.md): Sample prompt cards for key academic research tasks
+* [demo_prompts.md](./demo_prompts.md): Sample prompt cards for key academic research tasks
 
-[slide18_20_demos.md](./slide18_20_demos.md): Demos related to literature synthesis, idea generation, and experimental design (writing + elicit)
+* [slide18_20_demos.md](./slide18_20_demos.md): Demos related to literature synthesis, idea generation, and experimental design (writing + elicit)
 
-[slide24_data_demo.md](./slide24_data_demo.md): Programming/data analysis demo (e.g., cleaning and modelling using uploaded CSV dataset)
+* [slide24_data_demo.md](./slide24_data_demo.md): Programming/data analysis demo (e.g., cleaning and modelling using uploaded CSV dataset)
 
-[ai_disclosure_templates.md](./ai_disclosure_templates.md): Ready-to-copy disclosure snippets (writing help, data coding, literature searches, figure generation, etc.), plus a catch-all statement and a Turnitin/iThenticate note.
+* [ai_disclosure_templates.md](./ai_disclosure_templates.md): Ready-to-copy disclosure snippets (writing help, data coding, literature searches, figure generation, etc.), plus a catch-all statement and a Turnitin/iThenticate note.
 
-[ai_plagiarism_guidance.md](./ai_plagiarism_guidance.md): A post-workshop handout summarising: why first-pass LLM text can sound “same-y” (especially with simple prompts); the “interaction-fluents” method for iterative prompting; a guard-rail checklist (plagiarism checker, manual + AI literature search); and the GPT-4o “sycophancy” rollback as a human-AI co-evolution case study. **The handout includes links to ARC BITA’s LinkedIn & YouTube for the workshop recording.**
+* [ai_plagiarism_guidance.md](./ai_plagiarism_guidance.md): A post-workshop handout summarising: why first-pass LLM text can sound “same-y” (especially with simple prompts); the “interaction-fluents” method for iterative prompting; a guard-rail checklist (plagiarism checker, manual + AI literature search); and the GPT-4o “sycophancy” rollback as a human-AI co-evolution case study. **The handout includes links to ARC BITA’s LinkedIn & YouTube for the workshop recording.**
 
-[Bickley_UWA_AIinAcademicResearch_28Apr2025.pdf](./Bickley_UWA_AIinAcademicResearch_28Apr2025.pdf): Slide deck for Steve’s UWA guest workshop “How Can I Use AI to Help My Academic Research?” (29 Apr 2025).
+* [Bickley_UWA_AIinAcademicResearch_28Apr2025.pdf](./Bickley_UWA_AIinAcademicResearch_28Apr2025.pdf): Slide deck for Steve’s UWA guest workshop “How Can I Use AI to Help My Academic Research?” (29 Apr 2025).
 
-[Crimes_-_One_year_prior_to_present.csv](./Crimes_-_One_year_prior_to_present.csv): 1-year sample of Chicago Police Department incident reports ([public open-data portal](./https://catalog.data.gov/dataset/crimes-one-year-prior-to-present)). Used on slide 24 to demo quick exploratory analysis with GPT-assisted Python (time constraints meant the live demo was skipped).
+* [Crimes_-_One_year_prior_to_present.csv](./Crimes_-_One_year_prior_to_present.csv): 1-year sample of Chicago Police Department incident reports ([public open-data portal](./https://catalog.data.gov/dataset/crimes-one-year-prior-to-present)). Used on slide 24 to demo quick exploratory analysis with GPT-assisted Python (time constraints meant the live demo was skipped).
+
+* Workshop_ How Can I Use AI to Help My Academic Research_-20250429_134947-Meeting Recording.mp4: Video recording for Steve’s UWA guest workshop “How Can I Use AI to Help My Academic Research?” (29 Apr 2025).
 
 
 ## Notes for Participants
