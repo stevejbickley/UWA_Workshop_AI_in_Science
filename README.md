@@ -43,7 +43,7 @@ The session includes both conceptual explanation and practical demonstration, wi
 
 * [Crimes_-_One_year_prior_to_present.csv](./Crimes_-_One_year_prior_to_present.csv): 1-year sample of Chicago Police Department incident reports ([public open-data portal](./https://catalog.data.gov/dataset/crimes-one-year-prior-to-present)). Used on slide 24 to demo quick exploratory analysis with GPT-assisted Python (time constraints meant the live demo was skipped).
 
-* Workshop_ How Can I Use AI to Help My Academic Research_-20250429_134947-Meeting Recording.mp4: Video recording for Steve’s UWA guest workshop “How Can I Use AI to Help My Academic Research?” (29 Apr 2025).
+* **Workshop_ How Can I Use AI to Help My Academic Research_-20250429_134947-Meeting Recording.mp4**: Video recording for Steve’s UWA guest workshop “How Can I Use AI to Help My Academic Research?” (29 Apr 2025).
 
 
 ## Notes for Participants
